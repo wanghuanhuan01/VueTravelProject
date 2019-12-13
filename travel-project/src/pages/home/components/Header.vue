@@ -19,7 +19,7 @@ export default {
 }
 </script>
 <style lang="stylus" scoped>
-  @import '~styles/varibles.styl';
+@import '~styles/varibles.styl'
   .header
     display flex
     height .86rem
@@ -34,7 +34,7 @@ export default {
       background-color #fff
       margin-top .12rem
       height .64rem
-      line-height: 0.64rem;
+      line-height: 0.64rem
       border-radius .1rem
       color #ccc
     .header-right
