@@ -5,14 +5,14 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
+# 安装依赖
+yarn
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 启动项目
+yarn dev
 
-# build for production with minification
-npm run build
+# 项目打包
+yarn build
 
 # build for production and view the bundle analyzer report
 npm run build --report

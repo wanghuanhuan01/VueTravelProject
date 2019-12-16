@@ -39,7 +39,7 @@ export default {
   .wrapper
     width 100%
     height 0
-    padding-bottom 32.8%
+    padding-bottom calc((126.16 / 414) * 100%)
     overflow hidden
     .swiperImg
       width 100%
